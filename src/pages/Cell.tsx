@@ -40,7 +40,7 @@ const CellContainer = styled.div<{ ismarked: boolean; ishighlighted: boolean }>`
     `}
 `;
 
-const BuzzwordCell: React.FC<CellProps> = ({
+const Cell: React.FC<CellProps> = ({
     value,
     ismarked,
     ishighlighted,
@@ -67,4 +67,4 @@ const BuzzwordCell: React.FC<CellProps> = ({
     );
 };
 
-export default BuzzwordCell;
+export default Cell;

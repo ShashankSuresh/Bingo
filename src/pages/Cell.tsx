@@ -20,8 +20,8 @@ const CellContainer = styled.div<{ ismarked: boolean; ishighlighted: boolean }>`
   color: ${(props) => (props.ismarked ? 'var(--color-background)' : 'var(--color-text)')};
   font-weight: bold;
   font-size: var(--font-size-medium);
-  width: 130px;
-  height: 130px;
+  width: 100px;
+  height: 100px;
   cursor: pointer;
   border: 1px solid var(--color-text);
   overflow: hidden;

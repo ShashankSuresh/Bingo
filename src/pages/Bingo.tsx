@@ -71,8 +71,6 @@ const Bingo: React.FC<BingoProps> = ({
     return (
         <MainContainer>
             <Header>
-                Buzzword
-                <br />
                 Bingo
             </Header>
             <BoardContainer>

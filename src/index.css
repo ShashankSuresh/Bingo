@@ -1,0 +1,29 @@
+:root {
+  --font-family-primary: 'Arvo', sans-serif;
+
+  --font-size-small: 14px;
+  --font-size-medium: 16px;
+  --font-size-large: 18px;
+  --font-size-xl: 26px;
+  --font-size-ultra: 45px;
+  --font-size-mega: 55px;
+
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  --color-primary: #9fd8cb;
+  --color-secondary: #f2f2f2;
+  --color-tertiary: #79bdb2;
+  --color-text: #333333;
+  --color-background: #ffffff;
+  --color-opacility-dark: rgba(0, 0, 0, 0.8)
+}
+
+
+body {
+  margin: 0;
+  font-family: var(--font-family-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

@@ -1,6 +1,10 @@
 # Buzzword Bingo Game using React + TypeScript + Styled Components + Vercel 
 
-A simple one player offline buzzword bingo game using favourite movie quotes. 
+A simple one player offline buzzword bingo game using random and famous monumnets around the world.
+
+## Live Demo 
+
+https://bingo-alpha-red.vercel.app/
 
 ## Installation
 

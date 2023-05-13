@@ -8,8 +8,11 @@ https://bingo-alpha-red.vercel.app/
 
 ## Screen shots
 
-Mobile:
+Dekstop:
+https://github.com/ShashankSuresh/Bingo/blob/main/src/assets/images/screenshot-desktop.png
 
+Mobile:
+https://github.com/ShashankSuresh/Bingo/blob/main/src/assets/images/screenshot-mobile.png
 
 ## Installation
 

@@ -6,6 +6,11 @@ A simple one player offline buzzword bingo game using random and famous monumnet
 
 https://bingo-alpha-red.vercel.app/
 
+## Screen shots
+
+Mobile:
+
+
 ## Installation
 
 ```bash

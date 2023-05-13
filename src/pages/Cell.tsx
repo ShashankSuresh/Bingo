@@ -28,8 +28,8 @@ const CellContainer = styled.div<{ ismarked: boolean; ishighlighted: boolean }>`
 
   @media (min-width:320px) and (max-width: 641px) {
     font-size: var(--font-size-small);
-    width: 80px;
-    height: 80px;
+    width: 72px;
+    height: 72px;
   }
 
   ${(props) =>

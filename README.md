@@ -30,8 +30,6 @@ npm start run
 4. [Vercel](https://vercel.com/)
 5. [Monuments](https://www.listchallenges.com/150-most-famous-landmarks-in-the-world)
 
-Please make sure to update tests as appropriate.
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -24,5 +24,3 @@ export const buzzwordsData = [
     "The Parthenon",
     "St. Basil's Cathedral",
 ];
-
-// source: https://blog.hubspot.com/sales/famous//movie//quotes

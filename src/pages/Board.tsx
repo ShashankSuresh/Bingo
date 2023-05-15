@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Cell from './Cell';
+import Image from '../components/Image/Image';
 import BingoCelebration from '../assets/images/bingo.png';
 
 type BoardProps = {
@@ -106,7 +107,11 @@ const Board: React.FC<BoardProps> = ({ numcols, numrows, buzzwords, markedCells,
           );
         })}
       </Grid>
-      <Overlay show={isBingo}><CongratsMessage><img width={220} height={220} src={BingoCelebration} alt='bingo-celebration' /></CongratsMessage></Overlay>
+      <Overlay show={isBingo}>
+        <CongratsMessage>
+          <Image alt='bingo-celebration' src={BingoCelebration} width={220} height={220} />
+        </CongratsMessage>
+      </Overlay>
     </>
   );
 };

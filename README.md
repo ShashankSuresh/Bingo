@@ -12,6 +12,8 @@ https://bingo-alpha-red.vercel.app/
 
 <img width="1239" alt="screenshot-desktop" src="https://github.com/ShashankSuresh/Bingo/assets/13508322/9fe0c42a-6f6c-4660-a1d8-cb7375afdc5f">
 
+<img width="979" alt="Screenshot 2023-05-14 at 15 31 15" src="https://github.com/ShashankSuresh/Bingo/assets/13508322/4814108b-4520-480b-bb97-5b127c52490d">
+
 ## Installation
 
 ```bash
